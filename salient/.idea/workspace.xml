@@ -16,8 +16,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nectar/redux-framework/options-config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="33" column="90" lean-forward="true" selection-start-line="33" selection-start-column="90" selection-end-line="33" selection-end-column="90" />
+            <state relative-caret-position="84620">
+              <caret line="4231" column="3" selection-start-line="4231" selection-start-column="3" selection-end-line="4231" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nectar/woo/quick-view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nectar/helpers/pagination.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/header-search.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -25,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="91" column="23" lean-forward="true" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+            <state relative-caret-position="1820">
+              <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -34,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template-home-2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="1680">
               <caret line="84" column="128" selection-start-line="84" selection-start-column="128" selection-end-line="84" selection-end-column="128" />
             </state>
           </provider>
@@ -43,17 +70,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nectar/nectar-vc-addons/nectar-addons.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2442">
+            <state relative-caret-position="38160">
               <caret line="1908" column="40" selection-start-line="1908" selection-start-column="40" selection-end-line="1908" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1768" column="44" selection-start-line="1768" selection-start-column="44" selection-end-line="1768" selection-end-column="44" />
+            <state relative-caret-position="35740">
+              <caret line="1787" column="15" selection-start-line="1787" selection-start-column="15" selection-end-line="1787" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -61,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nectar/redux-framework/ReduxCore/core/enqueue.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="1200">
               <caret line="60" column="56" selection-start-line="60" selection-start-column="56" selection-end-line="60" selection-end-column="56" />
             </state>
           </provider>
@@ -70,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nectar/redux-framework/ReduxCore/assets/css/redux-admin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1840">
+            <state relative-caret-position="600">
               <caret column="36841" selection-start-column="36841" selection-end-column="36841" />
               <folding>
                 <element signature="e#5038#6921#1" expanded="true" />
@@ -115,6 +142,11 @@
       <find>Salient</find>
       <find>msaleg.png</find>
       <find>salient</find>
+      <find>Quick View</find>
+      <find>Посмотреть</find>
+      <find>next</find>
+      <find>следующая страница</find>
+      <find>нажмите</find>
     </findStrings>
     <replaceStrings>
       <replace>Roboto</replace>
@@ -146,15 +178,16 @@
         <option value="$PROJECT_DIR$/nectar/redux-framework/extensions/wbc_importer/demo-data/Corporate-2/theme-options.txt" />
         <option value="$PROJECT_DIR$/nectar/redux-framework/ReduxCore/inc/welcome/css/redux-welcome.css" />
         <option value="$PROJECT_DIR$/nectar/nectar-vc-addons/nectar-addons.css" />
-        <option value="$PROJECT_DIR$/nectar/redux-framework/options-config.php" />
         <option value="$PROJECT_DIR$/nectar/redux-framework/ReduxCore/templates/panel/header.tpl.php" />
         <option value="$PROJECT_DIR$/nectar/redux-framework/ReduxCore/assets/css/redux-admin.css" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/nectar/redux-framework/options-config.php" />
+        <option value="$PROJECT_DIR$/nectar/woo/quick-view.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-80" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
@@ -164,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,14 +242,16 @@
       <updated>1551846901854</updated>
       <workItem from="1551846903182" duration="11062000" />
       <workItem from="1551866951703" duration="9775000" />
+      <workItem from="1552280147025" duration="1294000" />
+      <workItem from="1552386700880" duration="1396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20837000" />
+    <option name="totallyTimeSpent" value="23527000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
@@ -249,13 +284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/header-search.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/searchform.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -281,13 +309,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="10328" column="103" selection-start-line="10328" selection-start-column="103" selection-end-line="10328" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nectar/helpers/pagination.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="177" column="63" selection-start-line="177" selection-start-column="63" selection-end-line="177" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -371,16 +392,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nectar/redux-framework/options-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84620">
+          <caret line="4231" column="3" selection-start-line="4231" selection-start-column="3" selection-end-line="4231" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="91" column="23" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-home-2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="84" column="128" selection-start-line="84" selection-start-column="128" selection-end-line="84" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nectar/nectar-vc-addons/nectar-addons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38160">
+          <caret line="1908" column="40" selection-start-line="1908" selection-start-column="40" selection-end-line="1908" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35740">
+          <caret line="1787" column="15" selection-start-line="1787" selection-start-column="15" selection-end-line="1787" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nectar/redux-framework/ReduxCore/core/enqueue.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="1200">
           <caret line="60" column="56" selection-start-line="60" selection-start-column="56" selection-end-line="60" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nectar/redux-framework/ReduxCore/assets/css/redux-admin.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1840">
+        <state relative-caret-position="600">
           <caret column="36841" selection-start-column="36841" selection-end-column="36841" />
           <folding>
             <element signature="e#5038#6921#1" expanded="true" />
@@ -398,38 +454,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nectar/redux-framework/options-config.php">
+    <entry file="file://$PROJECT_DIR$/nectar/woo/quick-view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="33" column="90" lean-forward="true" selection-start-line="33" selection-start-column="90" selection-end-line="33" selection-end-column="90" />
+        <state relative-caret-position="306">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nectar/nectar-vc-addons/nectar-addons.css">
+    <entry file="file://$PROJECT_DIR$/nectar/helpers/pagination.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2442">
-          <caret line="1908" column="40" selection-start-line="1908" selection-start-column="40" selection-end-line="1908" selection-end-column="40" />
+        <state relative-caret-position="206">
+          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
+    <entry file="file://$PROJECT_DIR$/includes/header-search.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="91" column="23" lean-forward="true" selection-start-line="91" selection-start-column="23" selection-end-line="91" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template-home-2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="84" column="128" selection-start-line="84" selection-start-column="128" selection-end-line="84" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1768" column="44" selection-start-line="1768" selection-start-column="44" selection-end-line="1768" selection-end-column="44" />
+        <state relative-caret-position="345">
+          <caret line="47" column="52" selection-start-line="47" selection-start-column="52" selection-end-line="47" selection-end-column="52" />
         </state>
       </provider>
     </entry>

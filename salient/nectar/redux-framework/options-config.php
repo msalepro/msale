@@ -4237,7 +4237,7 @@ Redux::setSection( $opt_name, array(
                         'id' => 'product_quick_view',
                         'type' => 'switch',
                         'title' => esc_html__('Enable WooCommerce Product Quick View', 'salient'),
-                        'subtitle' => esc_html__('This will add a "quick view" button to your products which will load key single product page info without having to navigate to the page itself.', 'salient'),
+                        'subtitle' => esc_html__('This will add a "Посмотреть" button to your products which will load key single product page info without having to navigate to the page itself.', 'salient'),
                         'desc' => '',
                         'default' => ''
                     ),
